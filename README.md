@@ -57,18 +57,4 @@ Follow the on-screen instructions to navigate through the application and perfor
 
 Note: Make sure to open the entire project folder in your IDE or command line environment to ensure that the program accesses the required files correctly.
 
-
-![image](https://github.com/NickWade13/finalCapstone/assets/132571903/4890680b-192b-41bc-a853-a153627cc415)
-
-![image](https://github.com/NickWade13/finalCapstone/assets/132571903/e55a44c1-d234-43fb-b6b0-c05fb6694744)
-
-![image](https://github.com/NickWade13/finalCapstone/assets/132571903/4c6c9d5a-d342-462b-9a6e-1646f8159bc7)
-
-![image](https://github.com/NickWade13/finalCapstone/assets/132571903/fcc59acc-15c0-40ad-a203-c08646222e5a)
-
-![image](https://github.com/NickWade13/finalCapstone/assets/132571903/0ef559b3-8ef0-4cd9-a905-6b3a7486de52)
-
-![image](https://github.com/NickWade13/finalCapstone/assets/132571903/f78987df-59f0-4522-ae01-34eb4c22097b)
-
-
 Enjoy using the Task Manager to efficiently manage and track your tasks!
