@@ -1,43 +1,24 @@
-Project Name: Task Manager
-
-Description:
+Task Manager
 
 The Task Manager is a command-line application that allows users to manage tasks and track their progress. It provides functionality for creating tasks, assigning them to users, setting due dates, and marking tasks as completed. The application also generates reports to provide an overview of task statistics and user activity.
 The Task Manager is designed to improve task management and collaboration within a team or organization. By centralizing task information and providing easy access to task details, it helps streamline project workflows and ensures timely completion of tasks.
 
 Installation:
-To install the Task Manager project locally, follow these steps:
 
-Clone the project repository from GitHub: https://github.com/NickWade13/Task-Manager
+To install and run the project locally, follow these steps:
 
-Navigate to the project directory using the command line.
+Make sure you have Python installed on your system. You can download Python from the official website: Python.org.
 
-Ensure that you have Python installed on your system. The Task Manager project requires Python 3.7 or above.
+Download the project files and save them in a directory of your choice.
 
-Create a virtual environment for the project using the following command:
+Open a terminal or command prompt and navigate to the directory where you saved the project files.
 
-python3 -m venv myenv
-Activate the virtual environment. The command may vary depending on your operating system:
+Once the dependencies are installed, you can run the project by executing the following command:
 
-For Windows:
-myenv\Scripts\activate
-
-For macOS/Linux:
-source myenv/bin/activate
-
-Usage:
-After installing the Task Manager project, follow these instructions to use it:
-
-Open a terminal or command prompt.
-
-Navigate to the project directory.
-
-Activate the virtual environment created during the installation process (if not already activated).
-
-Run the main script using the following command:
 python task_manager.py
 
-The application will prompt you to enter your username and password for login. Use the following credentials to access the admin rights:
+Usage:
+After installing and running the project the application will prompt you to enter your username and password for login. Use the following credentials to access the admin rights:
 
 Username: admin
 
